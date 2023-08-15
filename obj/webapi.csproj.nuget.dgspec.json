@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cursos\\webapi\\webapi.csproj": {}
+    "c:\\cursos\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\cursos\\webapi\\webapi.csproj": {
+    "c:\\cursos\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursos\\webapi\\webapi.csproj",
+        "projectUniqueName": "c:\\cursos\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\cursos\\webapi\\webapi.csproj",
+        "projectPath": "c:\\cursos\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\cursos\\webapi\\obj\\",
+        "outputPath": "c:\\cursos\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
